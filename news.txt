@@ -1,0 +1,13 @@
+// DJF Bangkok - NEWS FILE
+// Put the NEWEST news at the TOP. Each item starts with a line:   ## Date | Title
+// The text goes on the lines underneath. Web links (https://...) become clickable.
+// Optional: add a line   Photo: filename.jpg   (the picture must be inside the "updates" folder).
+// Lines starting with // are ignored. Save the file as UTF-8 so Thai / Hindi letters show correctly.
+
+## 18 Nov 2026 | Welcome to the DJF Bangkok news page
+Daily news, notices and photos from the Mandir will appear here.
+To add an update, edit this file on GitHub and save (commit) - the website changes by itself.
+
+## 18 Nov 2026 | Sidh Chakra Mandal Vidhaan
+Sidh Chakra Mandal Vidhaan was held at the Mandir.
+Photo: IMG_4588.jpg
